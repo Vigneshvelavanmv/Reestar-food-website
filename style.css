@@ -44,6 +44,7 @@
     padding-bottom: 5px;
     padding-left: 5px;
     padding-right: 5px;
+    font-size: 20px;
 }
 .section-two-a__button:hover{
     background-color:yellowgreen;
@@ -69,5 +70,4 @@
     padding: 5px;
     background-color: yellow;
     margin-bottom: 15px;
-    font-size: 20px;
 }
