@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Container{
+    padding: 30px;
+}
+.section-one{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.section-one__title{
+    padding-top: 10px;
+}
+.section-one__desc{
+    padding-bottom: 10px;
+    color: gray;
+}
+.section-two{
+    text-align: center;
+    padding: 10px;
+}
+.section-two-a{
+    width: 200px;
+    display: inline-block;
+    vertical-align: top;
+    border: solid 3px black;
+}
+.section-two-a__img{
+    width: 200px;
+    height: 300px;
+}
+.section-two-a__name{
+    font-weight: bolder;
+}
+.section-two-a__button{
+    background-color: black;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.section-two-a__button:hover{
+    background-color:yellowgreen;
+    color: red;
+    font-weight: bold;
+}
+.section-three{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.section-three__title{
+    padding-top: 20px;
+}
+.section-three__table{
+    display: inline-block;
+
+  /* margin: 0 auto;        /* centers the table horizontally */
+  /* text-align: left;     keeps text inside table left-aligned */
+}
+.section-three__button{
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: yellow;
+    margin-bottom: 15px;
+}
