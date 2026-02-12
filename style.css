@@ -12,24 +12,27 @@
 }
 .section-one__title{
     padding-top: 10px;
+    font-size: 50px;
 }
 .section-one__desc{
     padding-bottom: 10px;
     color: gray;
+    font-size: 20px;
 }
 .section-two{
     text-align: center;
     padding: 10px;
+    font-size: 25px;
 }
 .section-two-a{
-    width: 200px;
+    width: 280px;
     display: inline-block;
     vertical-align: top;
     border: solid 3px black;
 }
 .section-two-a__img{
-    width: 200px;
-    height: 300px;
+    width: 280px;
+    height: 420px;
 }
 .section-two-a__name{
     font-weight: bolder;
@@ -54,9 +57,11 @@
 }
 .section-three__title{
     padding-top: 20px;
+    font-size: 30px;
 }
 .section-three__table{
     display: inline-block;
+    font-size: 25px;
   }
 .section-three__button{
     width: 80%;               /* makes button responsive */
@@ -64,4 +69,5 @@
     padding: 5px;
     background-color: yellow;
     margin-bottom: 15px;
+    font-size: 25px;
 }
