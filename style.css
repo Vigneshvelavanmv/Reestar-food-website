@@ -57,15 +57,11 @@
 }
 .section-three__table{
     display: inline-block;
-
-  /* margin: 0 auto;        /* centers the table horizontally */
-  /* text-align: left;     keeps text inside table left-aligned */
-}
+  }
 .section-three__button{
-    padding-left: 150px;
-    padding-right: 150px;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    width: 80%;               /* makes button responsive */
+    max-width: 300px;
+    padding: 5px;
     background-color: yellow;
     margin-bottom: 15px;
 }
